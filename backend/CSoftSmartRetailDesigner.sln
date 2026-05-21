@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSoftSmartRetailDesigner.Domain", "CSoftSmartRetailDesigner.Domain\CSoftSmartRetailDesigner.Domain.csproj", "{0D72809A-72F1-4F1E-BF80-9886F6D87278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSoftSmartRetailDesigner.Application", "CSoftSmartRetailDesigner.Application\CSoftSmartRetailDesigner.Application.csproj", "{2A05CFB7-B592-4C10-8149-60DC39966630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSoftSmartRetailDesigner.Infrastructure", "CSoftSmartRetailDesigner.Infrastructure\CSoftSmartRetailDesigner.Infrastructure.csproj", "{8D1AFEA0-F5D1-4F5F-8341-B2B623DDD00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSoftSmartRetailDesigner.API", "CSoftSmartRetailDesigner.API\CSoftSmartRetailDesigner.API.csproj", "{22A99A52-7506-4C7B-A779-C15C6CA623CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D72809A-72F1-4F1E-BF80-9886F6D87278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D72809A-72F1-4F1E-BF80-9886F6D87278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D72809A-72F1-4F1E-BF80-9886F6D87278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D72809A-72F1-4F1E-BF80-9886F6D87278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A05CFB7-B592-4C10-8149-60DC39966630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A05CFB7-B592-4C10-8149-60DC39966630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A05CFB7-B592-4C10-8149-60DC39966630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A05CFB7-B592-4C10-8149-60DC39966630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1AFEA0-F5D1-4F5F-8341-B2B623DDD00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1AFEA0-F5D1-4F5F-8341-B2B623DDD00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1AFEA0-F5D1-4F5F-8341-B2B623DDD00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1AFEA0-F5D1-4F5F-8341-B2B623DDD00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A99A52-7506-4C7B-A779-C15C6CA623CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A99A52-7506-4C7B-A779-C15C6CA623CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A99A52-7506-4C7B-A779-C15C6CA623CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A99A52-7506-4C7B-A779-C15C6CA623CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
